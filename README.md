@@ -1,13 +1,15 @@
 # backend-note app
 Note App backend
 Register_Login
-This is the app name created.
+This is the app name created for spring-boot.
 
-The name of the database created in MySQL workbench is 
+# The name of the database created in MySQL workbench is 
 
 CREATE DATABASE dboffice;
 
-And also doing continuous integration by jenkins
+# For DevOps Jenkins from GitHub
+
+For doing continuous integration by jenkins
 
 after pasting github link
 
