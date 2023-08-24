@@ -1,4 +1,4 @@
-# backend-note app
+# Backend-note app
 Note App backend
 Register_Login
 This is the app name created for spring-boot.
